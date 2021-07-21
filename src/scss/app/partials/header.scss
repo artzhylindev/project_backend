@@ -1,0 +1,33 @@
+header.mainHeader {
+	text-align: center;
+    background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+	color: #fff;
+    height: 75px;
+    line-height: 75px;
+    font-size: 22px;
+    nav.nav_bar {
+      .nav_list {
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        .tab_navigation {
+          margin-right: 25px;
+
+          .link_navigation {
+            background-color: transparent;
+            border: none;
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 18px;
+            &:hover {
+              color: #ccc;
+            }
+          }
+        }
+      }
+    }
+
+}

@@ -1,0 +1,43 @@
+/* -----Main Color------- */
+
+ $primaryColor: #FF702A;
+ $secondaryColor: #171A20;
+ $tertiaryColor: #8A8B90;
+ $fourthColor: #000;
+ $fifthColor: #393C41;
+
+/* ------Option Color---------- */
+ $mainBackgroundColor: #673b3b;
+// ---
+ $headerColor: #ccc;
+ $headerFontColor: #000;
+// ---
+ $headerBottomColor: $secondaryColor;
+ $headerBottomFontColor: #fff;
+ $headerBackgroundColor: #171A20;
+// ---
+ $footerColor: $secondaryColor;
+ $footerFontColor: #969696;
+// ---
+ $borderColor: #EDEded;
+
+
+/* -----Main Fonts-----*/
+$pageFontSize: 12px;
+$mainFont: 'Montserrat', sans-serif;
+$secondaryFont: "Arial";
+
+// ---Optional (page-grid)-----
+$containerPadding: 12px;
+$containerPaddingDesktop: 15px;
+
+$containerWidthSmailler: 460px;
+$containerWidth: 769px;
+$containerWidthTablet: 980px;
+$containerWidthLaptop: 1170px; 
+$containerWidthDesktop: 1240px;
+$containerWidthDesktopL: 1370px;
+$containerWidthDesktopXS: 1540px;
+$containerWidthDesktopXL: 1840px;
+$pageMaxWidth: 1920px;
+
